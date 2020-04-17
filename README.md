@@ -1,4 +1,4 @@
 THE ODINE PROJECT
 
-using html and css clone the google website
+using html and css to clone the google search website
 
